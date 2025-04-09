@@ -18,3 +18,8 @@ This app uses a Machine Learning model to classify tweets as **real** or **fake*
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+## 🖼️ Demo
+
+![Fake Disaster Tweet Detection Demo](demo.png)
+
+
